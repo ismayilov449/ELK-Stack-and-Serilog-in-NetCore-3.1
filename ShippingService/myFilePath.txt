@@ -1,0 +1,1 @@
+2021-02-21T18:57:32.0490287Z Ignoring added logger provider Serilog.Extensions.Logging.SerilogLoggerProvider
